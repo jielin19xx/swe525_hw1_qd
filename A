@@ -6,3 +6,7 @@ function two(){
 	Do something here later;
 	OK, Let's do something;
 }
+function three(){
+	
+}
+
