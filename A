@@ -3,4 +3,5 @@ function one(){
 }
 function two(){
 	Do something here later;
+	OK, Let's do something;
 }
