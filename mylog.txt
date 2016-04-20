@@ -1,0 +1,13 @@
+*   Let's go to paris
+|\  
+| * London
+* | NewYork
+|/  
+* add function three in A
+*   Merge branch 'feature'
+|\  
+| * Let's go
+* | Let's do something
+|/  
+* add file A
+* first commit
